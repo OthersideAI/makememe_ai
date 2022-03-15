@@ -4,7 +4,7 @@ In the app, users create memes in under 5 seconds by describing them with natura
 
 You are welcome to fork this repo and make adjustments or contributions. If you fork or clone the repo, it is first required to review OpenAI's [go live policy](https://beta.openai.com/docs/going-live). You will need your own access and key in order to contribute.
 
-If you have any technical or other questions, you can reach out to me at josh@makememe.ai. I am happy to answer questions and walk through how the project works.  
+If you have any technical or other questions, you can reach out to me at josh@makememe.ai. I am happy to answer questions and walk through how the project works.
 
 ## [The Site](http://makememe.ai/)
 
